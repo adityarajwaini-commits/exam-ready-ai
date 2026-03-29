@@ -1,5 +1,3 @@
 # examready-ai-FULL-PROJECT
 
-This is the examready-ai full project. Repository prepared for upload to GitHub.
-
-Follow the instructions in the repository root to initialize git, commit, and push.
+Exam Ready AI leverages advanced AI to optimize student preparation through chapter-wise practice questions, predictive exam insights, and personalized flashcards for focused and effective study.
