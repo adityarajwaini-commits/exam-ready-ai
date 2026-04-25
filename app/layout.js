@@ -1,5 +1,6 @@
 import './globals.css'
 import { Toaster } from 'sonner'
+import { Analytics } from '@vercel/analytics/next'
 
 export const metadata = {
   title: 'ExamReady AI - Turn Notes into Exam-Ready Material',
@@ -15,6 +16,7 @@ export default function RootLayout({ children }) {
       <body>
         {children}
         <Toaster position="top-center" richColors />
+        <Analytics />
       </body>
     </html>
   )
